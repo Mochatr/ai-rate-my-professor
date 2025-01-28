@@ -16,10 +16,11 @@ if "rag" not in pc.list_indexes().names():
         metric="cosine",
         spec=ServerlessSpec(cloud="aws", region="us-east-1"),
     )
-
+    
 data = json.load(open("reviews.json"))
 
 processed_data = []
+
 api_key = os.getenv("NEXT_PUBLIC_OPENROUTER_API_KEY")
 api_url = "https://api.openrouter.ai/v1/embeddings"
 
@@ -37,6 +38,7 @@ for review in data["reviews"]:
     response = requests.post(api_url, headers=headers, json=payload)
     response.raise_for_status()  # Ensure we catch any HTTP errors
     embedding = response.json()["data"][0]["embedding"]
+
     processed_data.append(
         {
             "values": embedding,
