@@ -1,0 +1,52 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "review": "Dr. Carter is an outstanding professor. She explains complex concepts in a clear and concise manner. Her lectures are well-organized and engaging. She uses real-world examples to illustrate key points, which makes the material more relatable. Dr. Carter is very approachable and always willing to help students during office hours. Her grading is fair, and she provides detailed feedback on assignments. The workload is manageable, but the course is challenging. I would definitely take another course with her and recommend her to others.",
+        "subject": "Data Structures",
+        "stars": 4.8
+      },
+
+      {
+        "professor": "Dr. Sarah Kim",
+        "review": "Dr. Kim is a passionate professor who clearly loves her subject. Her lectures are interesting, but sometimes lack structure. She encourages class discussions, which can be very engaging. However, her grading can be inconsistent, and she is not always clear about her expectations for assignments. The workload is moderate, with regular readings and essays. Dr. Kim is approachable, but her office hours are limited. Overall, my experience was mixed. I enjoyed the class discussions, but found the lack of structure and inconsistent grading frustrating. I might take another course with her, but with some reservations.",
+        "subject": "History",
+        "stars": 3.0
+      },      
+
+      {
+        "professor": "Dr. Robert Martinez",
+        "review": "Dr. Martinez is an excellent professor who makes a challenging subject accessible. His lectures are well-organized and he uses a lot of visual aids to help explain complex concepts. He is very patient and takes the time to answer all questions thoroughly. Dr. Martinez's grading is fair, and he provides helpful feedback on assignments. The workload is heavy, but the material is fascinating. I would highly recommend him to anyone interested in physics.",
+        "subject": "Data Structures",
+        "stars": 4.5
+      },
+
+      {
+        "professor": "Dr. Linda Nguyen",
+        "review": "Dr. Nguyen is a knowledgeable professor, but her teaching style did not resonate with me. Her lectures are detailed, but often feel monotonous. She assigns a lot of reading, which can be overwhelming. Dr. Nguyen is approachable, but her feedback on assignments is often vague. The grading seems arbitrary at times. The workload is heavy, with frequent essays and reading assignments. Overall, my experience was neutral. I learned a lot, but the course was not enjoyable. I would not take another course with her unless necessary.",
+        "subject": "English",
+        "stars": 2.8
+      },
+      
+      {
+        "professor": "Dr. Michael Patel",
+        "review": "Dr. Patel is a fantastic professor who is passionate about his subject. His lectures are engaging and informative. He uses a lot of real-world examples to illustrate key concepts, which makes the material more relatable. Dr. Patel is very approachable and always willing to help students during office hours. His grading is fair, and he provides detailed feedback on assignments. The workload is manageable, but the course is challenging. I would definitely take another course with him and recommend him to others.",
+        "subject": "Buisness Management",
+        "stars": 4.9
+      },
+
+      {
+        "professor": "Dr. Jennifer Lee",
+        "review": "Dr. Lee is a knowledgeable professor who is passionate about her subject. Her lectures are clear and well-organized. She uses a lot of real-world examples to illustrate key concepts, which makes the material more relatable. Dr. Lee is approachable and always willing to help students during office hours. Her grading is fair, and she provides detailed feedback on assignments. The workload is manageable, but the course is challenging. I would definitely take another course with her and recommend her to others.",
+        "subject": "Quantum Mechanics",
+        "stars": 4.7
+      },
+
+      {
+        "professor": "Dr. David Brown",
+        "review": "Dr. Brown is an outstanding professor who is passionate about his subject. His lectures are engaging and informative. He uses a lot of real-world examples to illustrate key concepts, which makes the material more relatable. Dr. Brown is very approachable and always willing to help students during office hours. His grading is fair, and he provides detailed feedback on assignments. The workload is manageable, but the course is challenging. I would definitely take another course with him and recommend him to others.",
+        "subject": "Applied Physics",
+        "stars": 4.8
+      } 
+    ]
+  }
